@@ -1,0 +1,26 @@
+{
+  "owner": ["5214445427870@s.whatsapp.net"],
+  "api": {
+    "delirius": "https://github.com/darlyn1234"
+  },
+  "simbol": {
+    "menusimbolo": "☍"
+  },
+  "money": {
+    "name": "deliCoins",
+    "simbolo": "₱"
+  },
+  "setMenu": "large",
+  "setStyle": "1",
+  "autoPost": false,
+  "autoRead": false,
+  "composing": false,
+  "antiPrivate": true,
+  "PORT": 3000,
+  "appWeb": "https://delirius-homepage.vercel.app",
+  "musixMatch": "",
+  "stickerMetadata": {
+    "packauthor": "୨     ( 🥢 )       ⃘𓏸     D𝗲l𝗂𝗋𝗂uઽ.     ⃘𓏸",
+    "packname": "神志不清"
+  }
+}
