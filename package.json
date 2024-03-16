@@ -23,6 +23,10 @@
   },
   "homepage": "https://delirius-homepage.vercel.app/",
   "dependencies": {
-    "@napi-rs/canvas": "^0.1.51"
+    "@napi-rs/canvas": "^0.1.51",
+    "@whiskeysockets/baileys": "^6.6.0",
+    "chalk": "^4.1.2",
+    "fs": "^0.0.1-security",
+    "node-json-db": "^2.3.0"
   }
 }
