@@ -1,0 +1,28 @@
+{
+  "name": "@darlyn1234/delirius",
+  "version": "1.0.1",
+  "description": "Multi Device WhatsApp Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darlyn1234/DeliriusBot.git"
+  },
+  "keywords": [
+    "WhatsApp",
+    "Bot",
+    "Downloader",
+    "Search"
+  ],
+  "author": "Darlyn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darlyn1234/DeliriusBot/issues"
+  },
+  "homepage": "https://delirius-homepage.vercel.app/",
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.51"
+  }
+}
